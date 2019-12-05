@@ -1,0 +1,10 @@
+div{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Roboto', sans-serif;
+
+
+}
+label{
+	padding: 1%;
+}
